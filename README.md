@@ -8,7 +8,7 @@ I do all kinds of stuff that has something to do with programming.
 - ⚡ Fun fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
 
 [![Twitter: zebraticyt](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/zebraticyt)
-[![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/iampawan)
+[![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/zebratic)
 [![Website](https://img.shields.io/badge/Website-zebratic.xyz-2648ff?style=flat-square&logo=google-chrome)](https://zebraticsalley.herokuapp.com/)
 
 
