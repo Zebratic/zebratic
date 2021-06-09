@@ -43,6 +43,10 @@ I do all kinds of stuff that has something to do with programming.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
 </a>
 
+<a href="https://github.com/Zebratic/Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=Website&theme=dark" />
+</a>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
