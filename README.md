@@ -46,6 +46,9 @@ I do all kinds of stuff that has something to do with programming.
 <a href="https://github.com/Zebratic/Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=Website&theme=dark" />
 </a>
+<a href="https://github.com/Zebratic/AppOnHijacker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=AppOnHijacker&theme=dark" />
+</a>
 
 <div align="center">
 
