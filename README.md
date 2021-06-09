@@ -2,7 +2,7 @@
 I do all kinds of stuff that has something to do with programming.
  
 - 🔭 I’m currently working on [SE Arcade Launcher](https://github.com/zebratic/SE-Arcade-Launcher), [LEXUS](https://lexus.report/) and other cool projects.
-- 🌱 I’m currently learning more about BlockChain and PHP.
+- 🌱 I’m currently learning more about Blockchain and PHP.
 - 💬 Ask me about C# or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ZebraticYT](https://twitter.com/zebraticyt) , [Youtube - @Zebratic](https://www.youtube.com/channel/UCTWn9Yj4u_h31irL_Xs_sEg)
 - ⚡ Fun fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
