@@ -29,12 +29,18 @@ I do all kinds of stuff that has something to do with programming.
 <a href="https://github.com/Zebratic">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zebratic&show_icons=true&theme=dark&line_height=27" alt="Zebratic's github stats"/>
 </a>
-<a href="https://github.com/Zebratic/DuckScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
-</a>
+
 
 <a href="https://github.com/Zebratic/SE-Arcade-Launcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=SE-Arcade-Launcher&theme=dark" />
+</a>
+
+<a href="https://github.com/Zebratic/MousePos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=MousePos&theme=dark" />
+</a>
+
+<a href="https://github.com/Zebratic/DuckScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
 </a>
 
 <div align="center">
