@@ -1,6 +1,6 @@
 ## Hello, I'm Zebratic 👋
 I do all kinds of stuff that has something to do with programming.
- ia
+
 - 🔭 I’m currently working on [SE Arcade Launcher](https://github.com/zebratic/SE-Arcade-Launcher), [LEXUS](https://lexus.report/) and other cool projects.
 - 🌱 I’m currently learning more about Blockchain and PHP.
 - 💬 Ask me about C# or any tech related stuff.
