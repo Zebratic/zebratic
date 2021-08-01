@@ -1,6 +1,8 @@
 ## Hello, I'm Zebratic 👋
 I do all kinds of stuff that has something to do with programming.
 
+<img src="https://discord.c99.nl/widget/theme-4/811372110157053953.png"/>
+
 - 🔭 I’m currently working on [SE Arcade Launcher](https://github.com/zebratic/SE-Arcade-Launcher), [LEXUS](https://lexus.report/) and other cool projects.
 - 🌱 I’m currently learning more about Blockchain and PHP.
 - 💬 Ask me about C# or any tech related stuff.
