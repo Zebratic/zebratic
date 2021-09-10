@@ -36,6 +36,22 @@ I do all kinds of stuff that has something to do with programming.
 </a>
 
 
+<a href="https://github.com/Zebratic/CSharpGUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=CSharpGUI&theme=dark" />
+</a>
+
+<a href="https://github.com/Zebratic/GHook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=GHook&theme=dark" />
+</a>
+
+<a href="https://github.com/Zebratic/DuckScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
+</a>
+
+<a href="https://github.com/Zebratic/AppOnHijacker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=AppOnHijacker&theme=dark" />
+</a>
+
 <a href="https://github.com/Zebratic/SE-Arcade-Launcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=SE-Arcade-Launcher&theme=dark" />
 </a>
@@ -44,21 +60,6 @@ I do all kinds of stuff that has something to do with programming.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=MousePos&theme=dark" />
 </a>
 
-<a href="https://github.com/Zebratic/DuckScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=Website&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/AppOnHijacker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=AppOnHijacker&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/GHook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=GHook&theme=dark" />
-</a>
 
 <div align="center">
 
