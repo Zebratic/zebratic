@@ -4,13 +4,18 @@ I do all kinds of stuff that has something to do with programming.
 <img src="https://discord.c99.nl/widget/theme-4/811372110157053953.png"/>
 
 - 🔭 I’m currently working on [Muck](https://github.com/zebratic/Muck), [LEXUS](https://lexus.report/) and other cool projects.
-- 📫 How to reach me: [Twitter - @ZebraticYT](https://twitter.com/zebraticyt) , [Youtube - @Zebratic](https://www.youtube.com/channel/UCTWn9Yj4u_h31irL_Xs_sEg) , [Discord - Zebratic#6969](https://discord.gg/Fb5TSQtRSr)
 - ⚡ Fun fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
+<details>
+  <summary> - 📫 My Contacts:</summary>
+  <a href="https://twitter.com/zebraticyt">Twitter</a><br>
+  <a href="https://www.youtube.com/channel/UCTWn9Yj4u_h31irL_Xs_sEg">Youtube</a><br>
+  <a href="https://discord.com/users/811372110157053953">Discord</a><br>
+ 
+</details>
 
 [![Twitter: zebraticyt](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/zebraticyt)
 [![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/zebratic)
 [![Website](https://img.shields.io/badge/Website-zebratic.xyz-2648ff?style=flat-square&logo=google-chrome)](https://zebraticsalley.herokuapp.com/)
-
 
 **Languages and Tools:**  
 
