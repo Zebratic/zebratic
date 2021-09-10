@@ -3,7 +3,7 @@ I do all kinds of stuff that has something to do with programming.
 
 <img src="https://discord.c99.nl/widget/theme-4/811372110157053953.png"/>
 
-- 🔭 I’m currently working on [Muck](https://github.com/zebratic/Muck), [LEXUS](https://lexus.report/) and other cool projects.
+- 🔭 I’m currently working on [CSharpGUI](https://github.com/zebratic/CSharpGUI), [SnakeAI](https://github.com/zebratic/SnakeAI), [NoSussyExe](https://github.com/zebratic/NoSussyExe), [Muck](https://github.com/zebratic/Muck) and other cool private projects.
 - ⚡ Fun fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
 <details>
   <summary> - 📫 My Contacts:</summary>
