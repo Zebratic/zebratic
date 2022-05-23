@@ -1,7 +1,7 @@
 ## Hello, I'm Zebratic 👋
 I do all kinds of stuff that has something to do with programming.
 
-<img src="https://discord.c99.nl/widget/theme-4/811372110157053953.png"/>
+<img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png"/>
 
 - 🔭 I’m currently working on [UAC-Bypass](https://github.com/Zebratic/UAC-Bypass), [ESP8266-DeAuther](https://github.com/Zebratic/ESP8266-DeAuther), [CSharpGUI](https://github.com/zebratic/CSharpGUI), [SnakeAI](https://github.com/zebratic/SnakeAI), [NoSussyExe](https://github.com/zebratic/NoSussyExe) and other cool private projects.
 - ⚡ Fun fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
