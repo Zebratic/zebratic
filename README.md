@@ -4,7 +4,8 @@ I do all kinds of stuff that has something to do with programming.
 <img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png"/>
 
 - 🔭 I’m currently working on [UAC-Bypass](https://github.com/Zebratic/UAC-Bypass), and other cool private projects.
-- ⚡ Fun fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
+- ⚡ Fun Fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
+- 😱 Another Fun Fact: I have 60+ repositories including my private ones. So yes, most of my source code is private. 😎
 <details>
   <summary> - 📫 My Contacts:</summary>
   <a href="https://twitter.com/zebraticyt">Twitter</a><br>
