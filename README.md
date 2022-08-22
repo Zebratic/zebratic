@@ -3,8 +3,8 @@ I do all kinds of stuff that has something to do with programming.
 
 <img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png"/>
 
-- 🔭 I’m currently working on [UAC-Bypass](https://github.com/Zebratic/UAC-Bypass), and other cool private projects.
-- ⚡ Fun Fact: I almost hang myself because of that 1 bug that wont fix itself, even after 12 hours of debugging.
+- 🔭 I’m currently working at an Enterprise level, at a private company as a Full-Stack Developer, which pays my food.
+- ⚡ Fun Fact: I mainly develop my projects in C#, but chooses to work in C/C++ if neccisary. (Memory Management W/R)
 - 😱 Another Fun Fact: I have 60+ repositories including my private ones. So yes, most of my source code is private. 😎
 <details>
   <summary> - 📫 My Contacts:</summary>
@@ -38,6 +38,10 @@ I do all kinds of stuff that has something to do with programming.
 
 <img align="center" src="snake.svg" />
 
+<a href="https://github.com/Zebratic/UE4Injector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=UE4Injector&theme=dark" />
+</a>
+
 <a href="https://github.com/Zebratic/CSharpGUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=CSharpGUI&theme=dark" />
 </a>
@@ -57,11 +61,6 @@ I do all kinds of stuff that has something to do with programming.
 <a href="https://github.com/Zebratic/SE-Arcade-Launcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=SE-Arcade-Launcher&theme=dark" />
 </a>
-
-<a href="https://github.com/Zebratic/MousePos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=MousePos&theme=dark" />
-</a>
-
 
 <div align="center">
 
