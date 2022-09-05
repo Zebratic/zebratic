@@ -42,6 +42,10 @@ I do all kinds of stuff that has something to do with programming.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=UE4Injector&theme=dark" />
 </a>
 
+<a href="https://github.com/Zebratic/C0bW3b">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=C0bW3b&theme=dark" />
+</a>
+
 <a href="https://github.com/Zebratic/CSharpGUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=CSharpGUI&theme=dark" />
 </a>
@@ -56,10 +60,6 @@ I do all kinds of stuff that has something to do with programming.
 
 <a href="https://github.com/Zebratic/AppOnHijacker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=AppOnHijacker&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/SE-Arcade-Launcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=SE-Arcade-Launcher&theme=dark" />
 </a>
 
 <div align="center">
