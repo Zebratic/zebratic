@@ -5,7 +5,7 @@ I do all kinds of stuff that has something to do with programming.
 
 - 🔭 I’m currently working at an Enterprise level, at a private company as a Full-Stack Developer, which pays my food.
 - ⚡ Fun Fact: I mainly develop my projects in C#, but chooses to work in C/C++ if neccisary. (Memory Management W/R)
-- 😱 Another Fun Fact: I have 60+ repositories including my private ones. So yes, most of my source code is private. 😎
+- 😱 Another Fun Fact: I have 80+ repositories including my private ones. So yes, most of my source code is private. 😎
 <details>
   <summary> - 📫 My Contacts:</summary>
   <a href="https://twitter.com/zebraticyt">Twitter</a><br>
