@@ -1,7 +1,7 @@
 ## Hello, I'm Zebratic 👋
 I do all kinds of stuff that has something to do with programming.
 
-<img src="https://discord.c99.nl/widget/theme-4/813679495508656158.png"/>
+<img src="https://discord.c99.nl/widget/theme-3/1125439749189013586.png">
 
 - 🔭 I’m currently working at an Enterprise level, at a private company as a Full-Stack Developer, which pays my food.
 - ⚡ Fun Fact: I mainly develop my projects in C#, but chooses to work in C/C++ if neccisary. (Memory Management W/R)
@@ -14,9 +14,8 @@ I do all kinds of stuff that has something to do with programming.
  
 </details>
 
-[![Twitter: zebraticyt](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/zebraticyt)
+[![Twitter: RealZebratic](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/RealZebratic)
 [![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/zebratic)
-[![Website](https://img.shields.io/badge/Website-zebratic.xyz-2648ff?style=flat-square&logo=google-chrome)](https://zebraticsalley.herokuapp.com/)
 
 **Languages and Tools:**  
 
