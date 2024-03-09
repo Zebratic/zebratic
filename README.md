@@ -1,7 +1,7 @@
 ## Hello, I'm Zebratic 👋
 I do all kinds of stuff that has something to do with programming.
 
-<img src="https://discord.c99.nl/widget/theme-3/1125439749189013586.png">
+<img src="https://discord.c99.nl/widget/theme-3/1194146833723838525.png">
 
 - 🔭 I’m currently working at an Enterprise level, at a private company as a Full-Stack Developer, which pays for my food.
 - ⚡ Fun Fact: I mainly develop my projects in C#, but chooses to work in C/C++ if neccisary. (Memory Management W/R)
