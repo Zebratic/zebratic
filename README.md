@@ -1,14 +1,14 @@
 ## Hello, I'm Zebratic 👋
-I do all kinds of stuff that has something to do with programming.
+I'm a 20-year OSCP, CCPT certified Full Stack Developer.
 
 <img src="https://discord.c99.nl/widget/theme-3/1194146833723838525.png">
 
 - 🔭 I’m currently working at an Enterprise level, at a private company as a Full-Stack Developer, which pays for my food.
-- ⚡ Fun Fact: I mainly develop my projects in C#, but chooses to work in C/C++ if neccisary. (Memory Management W/R)
+- ⚡ Fun Fact: I can write software in most languages, but NodeJS backends is my primary as of right now.
 - 😱 Another Fun Fact: I have 100+ repositories including my private ones. So yes, most of my source code is private. 😎
 <details>
   <summary> - 📫 My Contacts:</summary>
-  <a href="https://twitter.com/zebraticyt">Twitter</a><br>
+  <a href="https://twitter.com/RealZebratic">Twitter / X</a><br>
   <a href="https://www.youtube.com/channel/UCTWn9Yj4u_h31irL_Xs_sEg">Youtube</a><br>
   <a href="https://discord.com/users/811372110157053953">Discord</a><br>
  
