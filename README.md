@@ -1,24 +1,10 @@
 ## Hello, I'm Zebratic 👋
-I'm a 20-year OSCP, CCPT certified Full Stack Developer.
+I'm a 20-year old Full-stack Developer
 
-<img src="https://discord.c99.nl/widget/theme-3/1194146833723838525.png">
+### This readme is undergoing construction, so its not as pretty as it will be in the future!
 
-- 🔭 I’m currently working at an Enterprise level, at a private company as a Full-Stack Developer, which pays for my food.
-- ⚡ Fun Fact: I can write software in most languages, but NodeJS backends is my primary as of right now.
-- 😱 Another Fun Fact: I have 100+ repositories including my private ones. So yes, most of my source code is private. 😎
-<details>
-  <summary> - 📫 My Contacts:</summary>
-  <a href="https://twitter.com/RealZebratic">Twitter / X</a><br>
-  <a href="https://www.youtube.com/channel/UCTWn9Yj4u_h31irL_Xs_sEg">Youtube</a><br>
-  <a href="https://discord.com/users/811372110157053953">Discord</a><br>
- 
-</details>
 
-[![Twitter: RealZebratic](https://img.shields.io/twitter/follow/zebraticyt?style=social)](https://twitter.com/RealZebratic)
-[![GitHub Zebratic](https://img.shields.io/github/followers/zebratic?label=follow&style=social)](https://github.com/zebratic)
-
-**Languages and Tools:**  
-
+**Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/59276?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -45,20 +31,8 @@ I'm a 20-year OSCP, CCPT certified Full Stack Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=C0bW3b&theme=dark" />
 </a>
 
-<a href="https://github.com/Zebratic/CSharpGUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=CSharpGUI&theme=dark" />
-</a>
-
 <a href="https://github.com/Zebratic/GHook">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=GHook&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/DuckScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=DuckScript&theme=dark" />
-</a>
-
-<a href="https://github.com/Zebratic/AppOnHijacker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zebratic&repo=AppOnHijacker&theme=dark" />
 </a>
 
 <div align="center">
