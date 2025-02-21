@@ -1,5 +1,5 @@
 ## Hello, I'm Zebratic 👋
-I'm a 20-year old Full-stack Developer
+Idk, i write code from time to time...
 
 ### This readme is undergoing construction, so its not as pretty as it will be in the future!
 
